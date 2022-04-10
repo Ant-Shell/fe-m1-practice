@@ -17,7 +17,7 @@ This consists of an opening link tag (plus href and assigned URL), and closing l
 ```
 <a href="https://turing.edu/" target="_blank">Turing.edu</a> (Opens in new window)
 ```
-Of note: Letting the user know the page will open in a new window is a best practice.
+**Of note:** Letting the user know the page will open in a new window is a best practice.
 
 4. How do you link to a specific part of the same page?
 - Linking to a specific part of the page requires an id attribute and an href attribute linking back to the id attribute as follows:
@@ -52,7 +52,8 @@ This consists of the selector (h1) and the declaration (font-family: Times New R
 - External stylesheets are best used when building a site with more than one webpage.
 
 6. Describe what a color hex code is.
-- A color hex code is a six-digit code which represents the amount of red, green and blue in a color, beginning with a # sign. Example: `#99ccff`
+- A color hex code is a six-digit code which represents the amount of red, green and blue in a color, beginning with a # sign.
+  * Example: `#99ccff`
 
 7. What are the three parts of an HSL color property?
 - The three parts of an HSL property are: Hue, Saturation, and Lightness/Luminosity
