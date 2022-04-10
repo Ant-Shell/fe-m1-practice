@@ -52,7 +52,7 @@ This consists of the selector (h1) and the declaration (font-family: Times New R
 - External stylesheets are best used when building a site with more than one webpage.
 
 6. Describe what a color hex code is.
-- A color hex code is a six-digit code which represents the amount of red, green and blue in a color, beginning with a # sign.
+- A color hex code is a six-digit code which represents the amount of red, green and blue in a color, beginning with a `#` sign.
   * Example: `#99ccff`
 
 7. What are the three parts of an HSL color property?
