@@ -13,8 +13,8 @@
 
 ## Images - CSS
 1. What is the benefit of specifying the height and width of images in CSS compared to specifying in the HTML?
--
-Specifying image sizes helps pages load more smoothly because the CSS will often load before the images - telling the browser the space to leave for images allows it to render the rest of the page without having to wait for the image to download
+- Specifying image sizes helps pages load more smoothly because the CSS will often load before the images - telling the browser the space to leave for images allows it to render the rest of the page without having to wait for the image to download
+
 
 2. What is an image sprite, and why is it useful?
 - An image sprite is used for several parts of an interface (logo, buttons). This is useful because the web browser only needs to request one image rather than many images, which results in faster web page loads
